@@ -1,2 +1,5 @@
-Tehdään testi file, jossa voisi olla koodia.
+﻿Tehdään testi file, jossa voisi olla koodia.
+
 Teen toisen rivin Githubissa
+
+Nyt muokkaan omalla koneella ja sitten commitilla takaisin.
